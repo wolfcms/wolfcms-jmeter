@@ -1,0 +1,3 @@
+h1. Introduction
+
+The scripts in this repository are JMeter scripts. They were made for automated testing or other automated actions for Wolf CMS.
